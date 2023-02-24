@@ -7592,8 +7592,7 @@ body {
 
 /*features boxes*/
 .feature-boxes {
-  text-align: center;
-background-color: #14CC9E; }
+  text-align: center; }
   .feature-boxes .box {
     padding: 3rem; }
 
